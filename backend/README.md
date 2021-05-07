@@ -9,3 +9,8 @@
 [- What does PostgreSQL to be ORDBMS mean?](https://stackoverflow.com/questions/45865961/what-does-postgresql-to-be-ordbms-mean)
 
 [- MariaDB vs MySQL](https://mariadb.com/kb/en/mariadb-releases/)
+
+### NoSQL
+
+### Optimization
+[- mongo query optimization](https://docs.mongodb.com/manual/core/query-optimization/)
