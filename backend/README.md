@@ -14,3 +14,5 @@
 
 ### Optimization
 [- mongo query optimization](https://docs.mongodb.com/manual/core/query-optimization/)
+[- mysql optimization](https://dev.mysql.com/doc/refman/8.0/en/statement-optimization.html)
+
