@@ -11,7 +11,10 @@
 ### NoSQL
 [- rethinkdb vs mongodb](https://rethinkdb.com/docs/rethinkdb-vs-mongodb/)
 
-### Optimization
+### Database Query Optimization
 [- mongo query optimization](https://docs.mongodb.com/manual/core/query-optimization/)
 [- mysql optimization](https://dev.mysql.com/doc/refman/8.0/en/statement-optimization.html)
 
+### Authentication
+[- General concept](https://softwareengineering.stackexchange.com/a/350094/306365)  
+[- OAuth and OpenID](http://cakebaker.42dh.com/2008/04/01/openid-versus-oauth-from-the-users-perspective/)  
