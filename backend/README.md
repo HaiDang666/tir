@@ -1,5 +1,6 @@
 # Backend  
-
+### REST API
+[- 22 best practices](https://betterprogramming.pub/22-best-practices-to-take-your-api-design-skills-to-the-next-level-65569b200b9)
 ### Web Security Knowledge
 [- Understand CORS](https://ieftimov.com/post/deep-dive-cors-history-how-it-works-best-practices/)  
 
