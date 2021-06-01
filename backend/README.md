@@ -9,6 +9,7 @@
 [- What does PostgreSQL to be ORDBMS mean?](https://stackoverflow.com/questions/45865961/what-does-postgresql-to-be-ordbms-mean)  
 [- MariaDB vs MySQL](https://mariadb.com/kb/en/mariadb-releases/)  
 [- Different Storage Engines](https://dev.mysql.com/doc/refman/8.0/en/storage-engines.html)  
+[- Normalization](https://www.guru99.com/database-normalization.html)
 ### NoSQL
 [- rethinkdb vs mongodb](https://rethinkdb.com/docs/rethinkdb-vs-mongodb/)
 
