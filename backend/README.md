@@ -1,6 +1,8 @@
 # Backend  
 ### REST API
-[- 22 best practices](https://betterprogramming.pub/22-best-practices-to-take-your-api-design-skills-to-the-next-level-65569b200b9)
+[- 22 best practices](https://betterprogramming.pub/22-best-practices-to-take-your-api-design-skills-to-the-next-level-65569b200b9)  
+[- POST x PUT x PATCH](https://stackoverflow.com/questions/28459418/use-of-put-vs-patch-methods-in-rest-api-real-life-scenarios)  
+
 ### Web Security Knowledge
 [- Understand CORS](https://ieftimov.com/post/deep-dive-cors-history-how-it-works-best-practices/)  
 
