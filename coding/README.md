@@ -1,8 +1,10 @@
 # Coding
 
 ### Design patterns
-[- Ultra-simplified explanation](https://github.com/kamranahmedse/design-patterns-for-humans)
+[- Ultra-simplified explanation](https://github.com/kamranahmedse/design-patterns-for-humans)  
+[- Least Recently Used (LRU) Cache](https://www.interviewcake.com/concept/java/lru-cache)
 
 ### Javascript
 [- Functional programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
-[- Benchmark](https://www.youtube.com/watch?v=g0ek4vV7nEA)
+[- Benchmark](https://www.youtube.com/watch?v=g0ek4vV7nEA)  
+[- Native vs Library Promise](https://stackoverflow.com/questions/34960886/are-there-still-reasons-to-use-promise-libraries-like-q-or-bluebird-now-that-we)  
