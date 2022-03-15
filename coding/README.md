@@ -12,6 +12,7 @@
 [- NPM audit broken (2021)](https://overreacted.io/npm-audit-broken-by-design/)  
 [- `require` and singleton (read the comments)](https://stackoverflow.com/questions/13179109/singleton-pattern-in-nodejs-is-it-needed?fbclid=IwAR2T3X0lZPmeb47WVdwfGhAJmEWofhGex1QRWhP9vF120zZw-WfpD_B6FPs)  
 [- When not use ES6 arrow function](https://www.javascripttutorial.net/es6/when-you-should-not-use-arrow-functions/)  
+[- Proxy](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy)  
 
 ##### Evenloop
 [- Evenloop and its metrics ](https://medium.com/the-node-js-collection/what-you-should-know-to-really-understand-the-node-js-event-loop-and-its-metrics-c4907b19da4c)  
