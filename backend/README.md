@@ -22,4 +22,6 @@
 
 ### Authentication
 [- General concept](https://softwareengineering.stackexchange.com/a/350094/306365)  
-[- OAuth and OpenID](http://cakebaker.42dh.com/2008/04/01/openid-versus-oauth-from-the-users-perspective/)  
+[- OAuth and OpenID](http://cakebaker.42dh.com/2008/04/01/openid-versus-oauth-from-the-users-perspective/)     
+[- JWT with permission](https://stackoverflow.com/questions/47224931/is-setting-roles-in-jwt-a-best-practice)   
+[- JWT blacklist](https://supertokens.com/blog/revoking-access-with-a-jwt-blacklist)    
