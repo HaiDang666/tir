@@ -10,7 +10,7 @@
 [- Native vs Library Promise](https://stackoverflow.com/questions/34960886/are-there-still-reasons-to-use-promise-libraries-like-q-or-bluebird-now-that-we)  
 [- Conditional add object property](https://stackoverflow.com/questions/11704267/in-javascript-how-to-conditionally-add-a-member-to-an-object/38483660)  
 [- NPM audit broken (2021)](https://overreacted.io/npm-audit-broken-by-design/)  
-[- `require` and singleton (read the comments)](https://stackoverflow.com/questions/13179109/singleton-pattern-in-nodejs-is-it-needed?fbclid=IwAR2T3X0lZPmeb47WVdwfGhAJmEWofhGex1QRWhP9vF120zZw-WfpD_B6FPs)  
+[- `require` and singleton (read the comments)](https://stackoverflow.com/questions/13179109/singleton-pattern-in-nodejs-is-it-needed?fbclid=IwAR2T3X0lZPmeb47WVdwfGhAJmEWofhGex1QRWhP9vF120zZw-WfpD_B6FPs) [link2](https://stackoverflow.com/questions/1479319/simplest-cleanest-way-to-implement-a-singleton-in-javascript)  
 [- When not use ES6 arrow function](https://www.javascripttutorial.net/es6/when-you-should-not-use-arrow-functions/)  
 [- Proxy](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy)  
 [- Array.map with parseInt](https://stackoverflow.com/questions/262427/why-does-parseint-yield-nan-with-arraymap)   
