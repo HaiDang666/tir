@@ -7,6 +7,7 @@
 [- Understand CORS](https://ieftimov.com/post/deep-dive-cors-history-how-it-works-best-practices/)  
 
 ### SQL
+[- basic SQL query](https://www.linkedin.com/feed/update/urn:li:activity:7064651553663565824?utm_source=share&utm_medium=member_desktop)   
 [- sqlite vs mysql vs postgresql](https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems)  
 [- What does PostgreSQL to be ORDBMS mean?](https://stackoverflow.com/questions/45865961/what-does-postgresql-to-be-ordbms-mean)  
 [- MariaDB vs MySQL](https://mariadb.com/kb/en/mariadb-releases/)  
@@ -14,7 +15,7 @@
 [- Normalization](https://www.guru99.com/database-normalization.html)  
 [- Beginner SQL operation's order](https://blog.jooq.org/a-beginners-guide-to-the-true-order-of-sql-operations/)
 ### NoSQL
-[- rethinkdb vs mongodb](https://rethinkdb.com/docs/rethinkdb-vs-mongodb/)
+[- rethinkdb vs mongodb](https://rethinkdb.com/docs/rethinkdb-vs-mongodb/)   
 
 ### Database Query Optimization
 [- mongo query optimization](https://docs.mongodb.com/manual/core/query-optimization/)
