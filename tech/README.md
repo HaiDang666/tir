@@ -13,3 +13,7 @@
 [- Simple cheat sheet](https://training.github.com/downloads/github-git-cheat-sheet)    
 [- Visualization cheat sheet](https://ndpsoftware.com/git-cheatsheet.html)    
 
+### Tech list
+[- About Cloud service](https://cncf.landscape2.io)    
+[- About API](https://apilandscape.apiscene.io)    
+
